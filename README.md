@@ -1,5 +1,5 @@
-# Q2A Vietnamese translation
-Vietnamese translation for Q2A
+# Vietnamese translation for Q2A
+
 This is Vietnamese translation updates for Question2Answer.
 
 Installation:
